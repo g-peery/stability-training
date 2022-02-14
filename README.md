@@ -1,6 +1,9 @@
 # stability-training
 This repo contains a re-implementation of the code and results in the paper: Improving the Robustness of Deep Neural Networks via Stability Training by Stephan Zheng, Yang Song, Thomas Leung and Ian Goodfellow. 
-
+# Dataset
+<p align="center">
+  <img src="docs/fairseq_logo.png" width="150">
+ <\p> 
 # Citation
 ``` bibtex
 @article{DBLP:journals/corr/ZhengSLG16,
