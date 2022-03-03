@@ -1,5 +1,5 @@
 # stability-training
-This repository contains a re-implementation of the code and results in the paper: Improving the Robustness of Deep Neural Networks via Stability Training by Stephan Zheng, Yang Song, Thomas Leung and Ian Goodfellow. 
+This repository contains a re-implementation of results in the paper: Improving the Robustness of Deep Neural Networks via Stability Training by Stephan Zheng, Yang Song, Thomas Leung and Ian Goodfellow. 
 # Dataset
 We train and evaluate on the Tiny Imagenet dataset
 <p align="center">
